@@ -1,7 +1,8 @@
 #!/bin/env python3
 
 import os
-SOFTWARE_VERSION="1.0.0-alpha"
+
+SOFTWARE_VERSION="1.0.0-alpha-dev"
 
 print("Current Build:", SOFTWARE_VERSION)
 
